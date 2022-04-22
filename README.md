@@ -11,7 +11,7 @@
 
 ---
 
-> Repositório de estudos sobre programação de redes de computadores com a linguagem  [Python](https://reactjs.org/docs/getting-started.html).
+> Repositório de estudos sobre programação de redes de computadores com a linguagem  [Python](https://www.python.org).
 
 <!--
 ### Ajustes e melhorias
@@ -28,7 +28,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou o `python`  e o  `docker` .
+* Você instalou o ![Python](https://www.python.org/downloads/) e o ![Docker](https://docs.docker.com/get-docker/) .
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
 
