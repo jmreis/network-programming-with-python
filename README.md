@@ -38,7 +38,7 @@ Para instalar, siga estas etapas:
 
 Linux, macOS e Windows::
 ```
-$ git clone https://
+$ git clone https://github.com/jmreis/network-programming-with-python.git
 
 $ cd networking-programming-with-python
 ```
