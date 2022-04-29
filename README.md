@@ -67,7 +67,7 @@ $ source .venv/bin/activate
 
 ```
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir, siga estas etapas:
 
